@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/cloudyfa19/radix.v2/redis"
+	"radix.v2/redis"
 )
 
 const (

@@ -3,11 +3,11 @@
 //
 // THE FUNCTIONALITY PROVIDED IN THIS PACKAGE IS NOT THREAD-SAFE. To use a
 // single redis instance amongst multiple go-routines, check out the pool
-// subpackage (http://godoc.org/github.com/cloudyfa19/radix.v2/pool)
+// subpackage (http://godoc.org//radix.v2/pool)
 //
 // To import inside your package do:
 //
-//	import "github.com/cloudyfa19/radix.v2/redis"
+//	import "radix.v2/redis"
 //
 // Connecting
 //

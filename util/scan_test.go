@@ -4,11 +4,11 @@ import (
 	"strconv"
 	. "testing"
 
-	"github.com/cloudyfa19/radix.v2/cluster"
-	"github.com/cloudyfa19/radix.v2/redis"
 	"github.com/levenlabs/golib/testutil"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"radix.v2/cluster"
+	"radix.v2/redis"
 )
 
 func randPrefix(t *T, c Cmder, count int) (string, map[string]bool) {

@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/cloudyfa19/radix.v2/pool"
-	"github.com/cloudyfa19/radix.v2/redis"
+	"radix.v2/pool"
+	"radix.v2/redis"
 )
 
 // These tests assume there is a cluster running on ports 7000 and 7001, with

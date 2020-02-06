@@ -3,9 +3,9 @@
 package util
 
 import (
-	"github.com/cloudyfa19/radix.v2/cluster"
-	"github.com/cloudyfa19/radix.v2/pool"
-	"github.com/cloudyfa19/radix.v2/redis"
+	"radix.v2/cluster"
+	"radix.v2/pool"
+	"radix.v2/redis"
 )
 
 // Cmder is an interface which can be used to interchangeably work with either

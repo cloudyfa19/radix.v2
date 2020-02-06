@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/cloudyfa19/radix.v2/cluster"
-	"github.com/cloudyfa19/radix.v2/redis"
+	"radix.v2/cluster"
+	"radix.v2/redis"
 )
 
 // ScanOpts are various parameters which can be passed into ScanWithOpts. Some

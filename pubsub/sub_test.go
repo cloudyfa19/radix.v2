@@ -6,9 +6,9 @@ import (
 	. "testing"
 	"time"
 
-	"github.com/cloudyfa19/radix.v2/redis"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"radix.v2/redis"
 )
 
 func randStr() string {

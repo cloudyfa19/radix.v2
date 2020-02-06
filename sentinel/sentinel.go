@@ -53,9 +53,9 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/cloudyfa19/radix.v2/pool"
-	"github.com/cloudyfa19/radix.v2/pubsub"
-	"github.com/cloudyfa19/radix.v2/redis"
+	"radix.v2/pool"
+	"radix.v2/pubsub"
+	"radix.v2/redis"
 )
 
 // ClientError is an error wrapper returned by operations in this package. It
