@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"radix.v2/cluster"
+	"github.com/cloudyfa19/radix.v2/cluster"
 )
 
 func randString() string {

@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"strings"
 
-	"radix.v2/redis"
+	"github.com/cloudyfa19/radix.v2/redis"
 )
 
 // LuaEval calls EVAL on the given Cmder for the given script, passing the key

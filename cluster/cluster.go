@@ -19,8 +19,8 @@ import (
 	"strings"
 	"time"
 
-	"radix.v2/pool"
-	"radix.v2/redis"
+	"github.com/cloudyfa19/radix.v2/pool"
+	"github.com/cloudyfa19/radix.v2/redis"
 )
 
 const (

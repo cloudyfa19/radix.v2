@@ -6,9 +6,9 @@ import (
 	. "testing"
 	"time"
 
+	"github.com/cloudyfa19/radix.v2/redis"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"radix.v2/redis"
 )
 
 // These tests assume there is a master/slave running on ports 8000/7001, and a

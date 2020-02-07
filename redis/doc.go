@@ -7,7 +7,7 @@
 //
 // To import inside your package do:
 //
-//	import "radix.v2/redis"
+//	import "github.com/cloudyfa19/radix.v2/redis"
 //
 // Connecting
 //

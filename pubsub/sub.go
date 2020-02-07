@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 
-	"radix.v2/redis"
+	"github.com/cloudyfa19/radix.v2/redis"
 )
 
 // SubRespType describes the type of the response  being returned from one of
